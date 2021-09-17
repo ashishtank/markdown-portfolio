@@ -1,1 +1,1 @@
-linked in .com ?
+[Linked in ](https://example.com)
